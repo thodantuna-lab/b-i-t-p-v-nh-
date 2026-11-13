@@ -2723,6 +2723,32 @@
       customSubtitlesByRoom: {},
       roomsCustom: {},
       vaultVideos: [
+        ...[
+          { ep: 48, mb: "88.8 MB" },
+          { ep: 49, mb: "76.1 MB" },
+          { ep: 50, mb: "94.2 MB" },
+          { ep: 51, mb: "125.7 MB" },
+          { ep: 52, mb: "99.5 MB" },
+          { ep: 53, mb: "84.9 MB" },
+          { ep: 54, mb: "91.9 MB" },
+          { ep: 55, mb: "71.9 MB" },
+          { ep: 56, mb: "97.6 MB" },
+          { ep: 57, mb: "100.0 MB" },
+          { ep: 58, mb: "108.4 MB" },
+          { ep: 59, mb: "186.5 MB" }
+        ].map((item, idx) => ({
+          id: `jjk_s3_ep${item.ep}`,
+          title: `Chú Thuật Hồi Chiến: Tử Diệt Hồi Du Phần 1 - Tập ${item.ep} (Vietsub)`,
+          sourceType: "mp4",
+          videoUrl: encodeURI(`./Chú Thuật Hồi Chiến Tử Diệt Hồi Du Phần 1   Tập ${item.ep} (Vietsub)Ani-One Vietnam.mp4`),
+          youtubeId: "",
+          duration: "24:00",
+          durationSec: 1440,
+          sizeText: `MP4 HD • ${item.mb}`,
+          poster: "https://images.unsplash.com/photo-1578632767115-351597cf2477?auto=format&fit=crop&w=800&q=80",
+          hasLyrics: false,
+          createdAt: Date.now() - (idx * 1000)
+        })),
         {
           id: "preset_hat_thang4",
           title: "Hà Anh Tuấn - Tháng Tư Là Lời Nói Dối Của Em (Official MV)",
