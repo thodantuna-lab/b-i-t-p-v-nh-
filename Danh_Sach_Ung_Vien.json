@@ -1,0 +1,269 @@
+[
+  {
+    "name": "Hoàng Xuân Nam",
+    "phone": "+84912345678",
+    "email": "nam.nh2026@gmail.com",
+    "position": "Backend Developer (Python)",
+    "experience_years": 1,
+    "skills": [
+      "Python",
+      "FastAPI",
+      "MySQL",
+      "Docker"
+    ]
+  },
+  {
+    "name": "Lê Đức Anh",
+    "phone": null,
+    "email": "thuha.tran.dev@outlook.com",
+    "position": "Thực tập sinh Frontend",
+    "experience_years": 0,
+    "skills": [
+      "ReactJS",
+      "TypeScript",
+      "HTML/CSS",
+      "Tailwind"
+    ]
+  },
+  {
+    "name": "Bùi Hoàng Anh",
+    "phone": "+84987654321",
+    "email": "cuonglv.data@gmail.com",
+    "position": "Data Analyst",
+    "experience_years": 1.5,
+    "skills": [
+      "SQL",
+      "Python",
+      "PowerBI",
+      "Excel"
+    ]
+  },
+  {
+    "name": "Phạm Thị Lan Anh",
+    "phone": "+84356789012",
+    "email": "lananh.pham99@gmail.com",
+    "position": "Lập trình viên Mobile (Flutter)",
+    "experience_years": null,
+    "skills": [
+      "Flutter",
+      "Dart",
+      "Firebase",
+      "REST API",
+      "Git"
+    ]
+  },
+  {
+    "name": "Đỗ Quang Huy",
+    "phone": null,
+    "email": null,
+    "position": "AI Engineer Intern",
+    "experience_years": 0.5,
+    "skills": [
+      "PyTorch",
+      "Computer Vision",
+      "OpenCV",
+      "Python"
+    ]
+  },
+  {
+    "name": "Vũ Đức Thắng",
+    "phone": "+84909112233",
+    "email": "thangvd.ops@yahoo.com",
+    "position": "DevOps Engineer",
+    "experience_years": 2,
+    "skills": [
+      "Linux",
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "Jenkins"
+    ]
+  },
+  {
+    "name": "Hoàng Thị Mai Phương",
+    "phone": "+84868555444",
+    "email": "phuonghtm.qa@gmail.com",
+    "position": "Manual & Automation Tester",
+    "experience_years": 2,
+    "skills": [
+      "Selenium",
+      "Java",
+      "TestNG",
+      "Postman",
+      "SQL",
+      "Jira"
+    ]
+  },
+  {
+    "name": "Bùi Tiến Dũng",
+    "phone": "+84977123456",
+    "email": "dungbt.fullstack@gmail.com",
+    "position": "Fullstack Developer (NodeJS/React)",
+    "experience_years": 0.5,
+    "skills": [
+      "NodeJS",
+      "Express",
+      "MongoDB",
+      "React",
+      "Git"
+    ]
+  },
+  {
+    "name": "Ngô Minh Tuấn",
+    "phone": "+84934888999",
+    "email": "tuan.nm.dev@gmail.com",
+    "position": null,
+    "experience_years": 1,
+    "skills": [
+      "C++",
+      "C#",
+      ".NET Core",
+      "SQL Server"
+    ]
+  },
+  {
+    "name": "Nguyễn Trường Khang",
+    "phone": "+84918222333",
+    "email": "khangtn.de@gmail.com",
+    "position": "Junior Data Engineer",
+    "experience_years": 1,
+    "skills": [
+      "Apache Spark",
+      "Python",
+      "Airflow",
+      "PostgreSQL",
+      "AWS S3"
+    ]
+  },
+  {
+    "name": "Lý Ngọc Hân",
+    "phone": "+84703456789",
+    "email": "hanln.design@gmail.com",
+    "position": "UI/UX Designer",
+    "experience_years": null,
+    "skills": []
+  },
+  {
+    "name": "Trịnh Quốc Bảo",
+    "phone": "+84905666777",
+    "email": "baotq.game@gmail.com",
+    "position": "Game Developer",
+    "experience_years": 3,
+    "skills": [
+      "Unity",
+      "C#",
+      "Blender",
+      "Photon Engine"
+    ]
+  },
+  {
+    "name": "Phan Thanh Thảo",
+    "phone": "+84945121314",
+    "email": "thaopt.ba@gmail.com",
+    "position": "IT Business Analyst",
+    "experience_years": 1,
+    "skills": [
+      "SRS",
+      "BPMN",
+      "UML",
+      "SQL"
+    ]
+  },
+  {
+    "name": "Võ Văn Kiệt",
+    "phone": "+84981999888",
+    "email": "kietvv.embedded@gmail.com",
+    "position": "Embedded Software Engineer",
+    "experience_years": 4,
+    "skills": [
+      "C",
+      "C++",
+      "STM32",
+      "UART",
+      "SPI",
+      "I2C",
+      "FreeRTOS"
+    ]
+  },
+  {
+    "name": "Dương Minh Triết",
+    "phone": "+84399888777",
+    "email": "trietdm.it@gmail.com",
+    "position": "IT Helpdesk / IT Support",
+    "experience_years": 0,
+    "skills": []
+  },
+  {
+    "name": "Tạ Quang Bửu",
+    "phone": "+84966333222",
+    "email": "buutq.sec@gmail.com",
+    "position": "Thực tập sinh An toàn thông tin (SOC Analyst Intern)",
+    "experience_years": 0,
+    "skills": [
+      "Network Security",
+      "Linux",
+      "Wireshark",
+      "Burp Suite",
+      "Python"
+    ]
+  },
+  {
+    "name": "Nguyễn Thị Công Tằng Tôn Nữ Diệu Linh",
+    "phone": "+84914777888",
+    "email": "linhnt.vue@gmail.com",
+    "position": "Frontend Developer (VueJS)",
+    "experience_years": 2,
+    "skills": [
+      "VueJS",
+      "NuxtJS",
+      "JavaScript",
+      "SCSS",
+      "GitLab CI"
+    ]
+  },
+  {
+    "name": "Chu Văn An",
+    "phone": "+84903111000",
+    "email": null,
+    "position": "Backend Golang Developer",
+    "experience_years": 2.5,
+    "skills": [
+      "Golang",
+      "gRPC",
+      "Redis",
+      "Kafka",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "Lương Thế Vinh",
+    "phone": "+84972444555",
+    "email": "vinhlt.php@gmail.com",
+    "position": "PHP Developer",
+    "experience_years": 1,
+    "skills": [
+      "PHP 8",
+      "Laravel",
+      "MySQL",
+      "Redis",
+      "jQuery",
+      "Bootstrap"
+    ]
+  },
+  {
+    "name": "Hồ Xuân Hương",
+    "phone": "+84919000111",
+    "email": "huonghx.ds@gmail.com",
+    "position": "Data Scientist",
+    "experience_years": 3,
+    "skills": [
+      "Machine Learning",
+      "NLP",
+      "Python",
+      "Scikit-learn",
+      "TensorFlow",
+      "SQL",
+      "Docker"
+    ]
+  }
+]
