@@ -1,0 +1,173 @@
+[
+  {
+    "sentiment": "Positive",
+    "topics": [
+      "Product"
+    ],
+    "score": 5,
+    "summary": "Áo khoác vải dày, đường may chắc chắn và chuẩn dáng"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": [
+      "Delivery",
+      "Product"
+    ],
+    "score": 2,
+    "summary": "Giao hàng nhanh nhưng bình giữ nhiệt bị móp"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": [
+      "System"
+    ],
+    "score": 1,
+    "summary": "Ứng dụng văng khi thanh toán ví điện tử làm mất mã giảm giá"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": [
+      "Product",
+      "Delivery"
+    ],
+    "score": 3,
+    "summary": "Sản phẩm tạm ổn so với giá, giao hàng đúng dự kiến"
+  },
+  {
+    "sentiment": "Positive",
+    "topics": [
+      "Service",
+      "Delivery",
+      "Product"
+    ],
+    "score": 5,
+    "summary": "Tư vấn nhiệt tình, giao hàng thân thiện và giày đi êm chân"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": [
+      "Service"
+    ],
+    "score": 1,
+    "summary": "Phản hồi tin nhắn chậm và thái độ thiếu tôn trọng"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": [
+      "Delivery",
+      "Product"
+    ],
+    "score": 1,
+    "summary": "Giao hàng rất chậm và giao sai sản phẩm thành cục gạch"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": [
+      "System"
+    ],
+    "score": 3,
+    "summary": "Giao diện mới của ứng dụng hơi lạ nhưng dùng dần sẽ quen"
+  },
+  {
+    "sentiment": "Invalid",
+    "topics": [
+      "Invalid"
+    ],
+    "score": null,
+    "summary": "Invalid"
+  },
+  {
+    "sentiment": "Invalid",
+    "topics": [
+      "Invalid"
+    ],
+    "score": null,
+    "summary": "Invalid"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": [
+      "Product",
+      "Service"
+    ],
+    "score": 1,
+    "summary": "Nồi chiên không lên nguồn, tổng đài chậm trễ hỗ trợ đổi trả"
+  },
+  {
+    "sentiment": "Positive",
+    "topics": [
+      "Delivery"
+    ],
+    "score": 5,
+    "summary": "Nhân viên giao hàng thân thiện, giữ hàng nguyên vẹn trong trời mưa"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": [
+      "System",
+      "Service"
+    ],
+    "score": 1,
+    "summary": "Hệ thống tự hủy đơn không báo trước, CSKH đùn đẩy trách nhiệm"
+  },
+  {
+    "sentiment": "Positive",
+    "topics": [
+      "System",
+      "Product"
+    ],
+    "score": 5,
+    "summary": "Tìm kiếm hình ảnh trên ứng dụng nhạy, bàn phím chính hãng tốt"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": [
+      "Service"
+    ],
+    "score": 3,
+    "summary": "Nhân viên hướng dẫn xuất hóa đơn đầy đủ, đang chờ phản hồi"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": [
+      "Delivery"
+    ],
+    "score": 1,
+    "summary": "Nhân viên giao hàng không gọi điện và tự ý để hàng ngoài cổng"
+  },
+  {
+    "sentiment": "Positive",
+    "topics": [
+      "Product"
+    ],
+    "score": 5,
+    "summary": "Kem dưỡng ẩm thấm nhanh, không bết rít và làm dịu da"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": [
+      "Product",
+      "Delivery"
+    ],
+    "score": 3,
+    "summary": "Sách in đẹp, nội dung hay nhưng vận chuyển giao trễ hai ngày"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": [
+      "System",
+      "Service",
+      "Product"
+    ],
+    "score": 1,
+    "summary": "Ứng dụng báo sai tồn kho, tự ý giao nhầm màu sản phẩm"
+  },
+  {
+    "sentiment": "Invalid",
+    "topics": [
+      "Invalid"
+    ],
+    "score": null,
+    "summary": "Invalid"
+  }
+]
