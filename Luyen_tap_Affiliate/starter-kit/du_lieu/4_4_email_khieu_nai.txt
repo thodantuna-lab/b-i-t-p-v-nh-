@@ -1,0 +1,36 @@
+EMAIL KHIẾU NẠI CỦA CREATOR / PUBLISHER
+
+Tôi là khách hàng mua gói TT đợt thực chiến Mega Sale ngày 11/11/2026, đi team 3 người (3 Creator chính). Trung tâm cam kết bố trí phòng quay có sẵn đèn livestream chuyên nghiệp và vách cách âm, nhưng trong 2 ca thực hành đầu chúng tôi lại bị xếp sang phòng học thường không có đèn livestream và bị ồn. Bạn nhân viên kỹ thuật trực ca rất nhiệt tình hỗ trợ, tôi không có gì phàn nàn về nhân viên. Tôi đề nghị trung tâm giải quyết thỏa đáng.
+
+======================================================
+CHÍNH SÁCH ĐỀN BÙ CỦA TRUNG TÂM VIETAFFILIATE
+======================================================
+
+- tre_gio: ca thực chiến bắt đầu trễ trên 1 giờ do lỗi hệ thống của trung tâm: tặng voucher 200.000 đồng/khách.
+- sai_phong: khách bị xếp sang phòng thiếu thiết bị quay/livestream so với quyền lợi đã cam kết: hoàn 300.000 đồng/khách cho mỗi ca thực hành bị ảnh hưởng.
+- nhan_vien: khiếu nại về thái độ của nhân viên hỗ trợ: tặng voucher 300.000 đồng/khách.
+- khac: chuyển bộ phận Chăm sóc Publisher xem xét, chưa đề xuất mức đền bù.
+- Tổng mức đền bù trên 1.500.000 đồng phải được Trưởng bộ phận Chăm sóc Publisher duyệt trước khi gửi khách.
+
+======================================================
+ĐỊNH DẠNG ĐẦU RA CỦA TRẠM 1 (sinh viên viết prompt)
+======================================================
+
+Trạm 1 – đọc email, trả về chỉ một đối tượng JSON gồm đúng 4 trường:
+{"loai_su_co": một trong "tre_gio" | "sai_phong" | "nhan_vien" | "khac", "so_khach": số nguyên, "so_ca_bi_anh_huong": số nguyên hoặc null, "tom_tat": "không quá 20 từ"}
+
+======================================================
+PROMPT TRẠM 2 (đã có sẵn, không cần viết)
+======================================================
+
+Dưới đây là kết quả phân loại khiếu nại (JSON của Trạm 1) và chính sách đền bù. Chỉ dùng chính sách trong thẻ <chinh_sach> để tính tổng mức đền bù. Trả về đúng một đối tượng JSON, không giải thích:
+{"loai_su_co": ..., "muc_den_bu": tổng số tiền (đồng) hoặc null, "can_duyet": true nếu muc_den_bu trên 1.500.000, ngược lại false}
+<ket_qua_tram_1>(JSON của Trạm 1)</ket_qua_tram_1>
+<chinh_sach>(chính sách đền bù ở trên)</chinh_sach>
+
+======================================================
+PROMPT TRẠM 3 (đã có sẵn, không cần viết)
+======================================================
+
+Bạn là chuyên viên chăm sóc Publisher của Trung tâm VietAffiliate. Dựa trên JSON trong thẻ <ket_qua_tram_2>, viết email phản hồi khách hàng: xin lỗi, nêu đúng mức đền bù trong JSON, không tự đặt mức khác, giọng điệu chân thành, chuyên nghiệp, dưới 150 từ.
+<ket_qua_tram_2>(JSON của Trạm 2)</ket_qua_tram_2>

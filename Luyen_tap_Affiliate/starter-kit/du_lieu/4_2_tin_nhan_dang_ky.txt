@@ -1,0 +1,35 @@
+BẢNG MÃ GÓI AFFILIATE
+TT – Gói TikTok Affiliate: thực chiến gắn giỏ hàng video ngắn
+SP – Gói Shopee Affiliate: thực chiến rải link tiếp thị mạng xã hội
+PRO – Gói Livestream Pro: phòng studio livestream và mentor hỗ trợ VIP
+
+QUY TẮC CHUẨN HOÁ (5 quy tắc)
+1. ma_goi lấy theo bảng mã gói Affiliate.
+2. ngay_bat_dau dạng YYYY-MM-DD; tin nhắn không ghi năm thì lấy năm 2026; không có ngày cụ thể thì null.
+3. Khách không nhắc tới thực tập sinh thì thuc_tap_sinh là 0 và mọi người đi cùng đều tính là creator_chinh.
+4. hang_tai_khoan chỉ nhận "thuong", "vip" hoặc null.
+5. ghi_chu chỉ ghi yêu cầu đặc biệt về chỗ ngồi, thiết bị quay/livestream hoặc hỗ trợ di chuyển; không có thì null.
+
+======================================================
+HAI TIN NHẮN MẪU ĐÃ XỬ LÝ ĐÚNG (dùng làm ví dụ)
+======================================================
+
+Tin nhắn mẫu 1:
+Đặt giúp mình 2 suất gói Livestream Pro đợt ngày 15/11/2026, gồm 2 Creator chính và 1 bạn thực tập sinh. Cần phòng quay có sẵn giá đỡ điện thoại.
+Kết quả đúng:
+{"ma_goi": "PRO", "ngay_bat_dau": "2026-11-15", "creator_chinh": 2, "thuc_tap_sinh": 1, "hang_tai_khoan": "vip", "ghi_chu": "phòng quay có sẵn giá đỡ điện thoại"}
+
+Tin nhắn mẫu 2:
+Cho mình đăng ký một suất Gói Shopee Affiliate, đợt nào cũng được, mình đi một mình.
+Kết quả đúng:
+{"ma_goi": "SP", "ngay_bat_dau": null, "creator_chinh": 1, "thuc_tap_sinh": 0, "hang_tai_khoan": "thuong", "ghi_chu": null}
+
+======================================================
+BA TIN NHẮN CẦN XỬ LÝ
+======================================================
+
+TN1: Mình muốn đăng ký Gói TikTok Affiliate đợt ngày 20/12 nha, đi 2 Creator chính với 1 bạn thực tập sinh 16 tuổi, lấy hạng tài khoản thường.
+
+TN2: Cho 3 người đăng ký Gói Shopee Affiliate đợt thực chiến ngày 08/01/2027 ạ. Có một bạn đang bó bột chân cần ngồi bàn gần cửa ra vào.
+
+TN3: Đợt chạy Affiliate Mega Sale tháng 12 còn slot không ạ? Team em 4 Creator chính, cần mượn thêm đèn trợ sáng và phông xanh để quay mẫu, lấy gói VIP Livestream Pro.
